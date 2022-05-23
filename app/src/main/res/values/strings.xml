@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">YalovaHmsWorkshop</string>
+    <string name="profile">Profile</string>
+    <string name="todo">todo</string>
+    <string name="name">Name</string>
+    <string name="user_phone">Phone</string>
+    <string name="user_email">Email</string>
+    <string name="test">test</string>
+    <string name="home">Home</string>
+</resources>
